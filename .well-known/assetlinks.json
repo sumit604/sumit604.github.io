@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sumit.spelling_custom_app_v2",
+      "sha256_cert_fingerprints": [
+        "A5:E0:27:28:88:6E:0C:DC:E2:00:59:81:BA:61:F7:F3:24:42:60:EE:2B:19:D7:05:E2:29:5F:50:00:E4:59:13"
+      ]
+    }
+  }
+]
